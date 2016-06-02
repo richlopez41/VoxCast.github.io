@@ -2,7 +2,7 @@
 title: VoxCast
 email: voxcast@dartmouth.edu
 description: > # this means to ignore newlines until "baseurl:"
-  A podcast of big ideas percolating the Dartmouth community...and beyond
+  A podcast of big ideas percolating in the Dartmouth community...and beyond
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://voxcast.dartmouth.edu" # the base hostname & protocol for your site
 twitter_username: VoxCastDmouth
